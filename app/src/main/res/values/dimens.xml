@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="getDataBtn_width">152dp</dimen>
+    <dimen name="getDataBtn_height">71dp</dimen>
+    <dimen name="cardView_width">391dp</dimen>
+    <dimen name="cardView_height">256dp</dimen>
+    <dimen name="id_tv_width">315dp</dimen>
+    <dimen name="id_tv_height">37dp</dimen>
+    <dimen name="title_tv_width">317dp</dimen>
+    <dimen name="title_tv_height">35dp</dimen>
+    <dimen name="body_tv_width">311dp</dimen>
+    <dimen name="body_tv_height">118dp</dimen>
+</resources>
